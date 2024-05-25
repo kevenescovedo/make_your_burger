@@ -1,0 +1,144 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "712c",
+      "nome": "keven Escovedo",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "45de",
+      "nome": "Angela Maria",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "89f2",
+      "nome": "Angela Maria",
+      "carne": "Picanha",
+      "pao": "",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cebola roxa",
+        "Pepino",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "e464",
+      "nome": "Anselmo Escovedo",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cheddar",
+        "Pepino"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "4ba4",
+      "nome": "keven Escovedo 2",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado"
+    }
+  ]
+}
